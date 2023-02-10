@@ -1,6 +1,22 @@
 # calculate_the_average_of_the_grades
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //include<stdio,h> para i apil ang standard input output library functions.
 #include <stdio.h>
 
